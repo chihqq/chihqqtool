@@ -1,4 +1,4 @@
-package com.github.chihqq.util;
+package io.github.chihqq.util;
 
 import java.io.IOException;
 import java.io.InputStream;

@@ -2,13 +2,13 @@
   xsi:schemaLocation="http://maven.apache.org/POM/4.0.0 http://maven.apache.org/xsd/maven-4.0.0.xsd">
   <modelVersion>4.0.0</modelVersion>
 
-  <groupId>com.github.chihqq</groupId>
+  <groupId>io.github.chihqq</groupId>
   <artifactId>chihqqtool</artifactId>
   <version>1.0-SNAPSHOT</version>
   <packaging>jar</packaging>
 
   <name>chihqqtool</name>
-  <url>https://github.com/chihqq</url>
+  <url>https://chihqq.github.io/</url>
 
   <properties>
     <maven.compiler.source>1.8</maven.compiler.source>

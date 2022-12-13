@@ -1,4 +1,4 @@
-package com.github.chihqq;
+package io.github.chihqq;
 
 /**
  * Hello world!
